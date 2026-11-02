@@ -1,5 +1,76 @@
 [
   {
+    "name": "FUTBOL PARAGUAYO",
+    "samples": [
+      {
+        "name": "EVENTOS 1 HD",
+        "url": "jIrGq46A1v3RJFKfQ2pccpoCUKEo3tZSW5O0iIkJo6/il/5QE9oPHgaZstTomFxcyGGX6w2UXOFF1hU8sJaDDCEPAvMjIjoaB/6uBGXekokxQod+GugycsYfr5fUtUP+e8BKQOQO92sfviSU8/BY/hqmhm0DCUOe7nthoI1zLfw9duglWBJP4DQrXjqd/ajkpKBWQ68Ozk8j9AKFwlwcoK1HtKCO5FeVwZ1EkDNba72O8W39pOOU1iufR3gWRFGZgFGDfyJxkSNVPDS/iq+maP6I9oWT0pilms+78hfaqQhR9Zwy1WOoC5jt7tKDS6dDyb9uhQQOkPpFP9WuDO+f8x6EOLJOACPiLz3tTf2IUZA=",
+        "manual": true,
+        "drm_license_uri": "NFUTa1vm7Hzn5cmsGsR9pmhg8i6/Zk1at/XsS3tJ/ZnuDVX1XkDxF1V8TS2yCbd5eq/7GLf5BEVNYV7ZbAhWGZ6Bd+2zIPhXmxh+GKBBMILygCFq5Ay28vr7ahbiKhnvDCA1GkvPyPxTjUDXfQ3i3fkrxy8NJHtDXc0ELxJ/pzA="
+      },
+      {
+        "name": "EVENTOS 2",
+        "url": "jIrGq46A1v3RJFKfQ2pccpoCUKEo3tZSW5O0iIkJo6/il/5QE9oPHgaZstTomFxcyGGX6w2UXOFF1hU8sJaDDCEPAvMjIjoaB/6uBGXekokxQod+GugycsYfr5fUtUP+e8BKQOQO92sfviSU8/BY/hqmhm0DCUOe7nthoI1zLfw9duglWBJP4DQrXjqd/ajkpKBWQ68Ozk8j9AKFwlwcoK1HtKCO5FeVwZ1EkDNba72O8W39pOOU1iufR3gWRFGZgFGDfyJxkSNVPDS/iq+maP6I9oWT0pilms+78hfaqQhR9Zwy1WOoC5jt7tKDS6dDZKSdWcWUR1P+rs+Ll63IGQ==",
+        "manual": true,
+        "drm_license_uri": "NFUTa1vm7Hzn5cmsGsR9pmhg8i6/Zk1at/XsS3tJ/ZnuDVX1XkDxF1V8TS2yCbd5qbK2ZsjI/lMpw/suDl3LpPoUyQQvJDhk7lo4vmG98HL01vwXFvjOrJ4t86kcSGcfpfP0GY9a1gL2+RtwmMS37XpzY9+w2SnX26c1J6m3OJQ="
+      },
+      {
+        "name": "EVENTOS 3 HD",
+        "url": "Hn/nIUf4UxHj+VX4HAs5I6rEFzAxg5AkicIeHErOCwS892CNACzR4+xnI551italzhCEv3D/JPmzIMvCulPR+2KF2NXAFvvpml+Af7qKLtQ=",
+        "manual": true,
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png\""
+      },
+      {
+        "name": "CH 38120. TIGO SPORTS 24/7 1",
+        "url": "SCGTe3wUnFpTU4dY/NmUXlOQqQJRQa6pAbarCzlYR4yAaq5v6GUnvXl/dZZgUcfczzVHEU7wQJGjxULGlx1/3qJ5Z/3aqFoY6hiTGLDJfco=",
+        "type": "hls",
+        "icono": "https://plain-enam-prod-public.komododecks.com/202608/21/vPcARjlFFSj7XGPK42TY/image.png"
+      },
+      {
+        "name": "CH 38121. TIGO SPORTS 24/7 2",
+        "url": "Us62+64X5cMMumklWC3mJbl6XslAoUifsVZ9hDxXFNe6j6Hl1RCNwxD0BadNsWEL",
+        "type": "dash",
+        "icono": "https://plain-enam-prod-public.komododecks.com/202608/21/sR1urGPpHoA8brFSVGqL/image.png"
+      },
+      {
+        "name": "CH 38125. TIGO SPORTS 3 24/7 1",
+        "url": "SCGTe3wUnFpTU4dY/NmUXlEXXQpBKH09DDo0/pJUuqTXg4k4h0j+3CItGkM5Wu1okHXsybchJbF4dkWVzra8VQ==",
+        "type": "hls",
+        "icono": "https://plain-enam-prod-public.komododecks.com/202608/21/6ATjrAPu1VzY1VxsBmzi/image.png"
+      },
+      {
+        "name": "CH 38146. TIGO SPORTS 3 24/7 2",
+        "url": "Us62+64X5cMMumklWC3mJeO0Iucmy8S7m5ED9eTFLjE=",
+        "type": "dash",
+        "icono": "https://plain-enam-prod-public.komododecks.com/202608/21/vBITjynifedpGwbThnEb/image.png"
+      },
+      {
+        "name": "CH 38123. TIGO SPORTS+ 24/7",
+        "url": "SCGTe3wUnFpTU4dY/NmUXtBXgtXA1DTSlILNaE8q0dpTCwaHTy+vCib8A2Mm0BPTkHXsybchJbF4dkWVzra8VQ==",
+        "type": "hls",
+        "icono": "https://plain-enam-prod-public.komododecks.com/202608/21/wlGZjNtOySoNJkSx9hXz/image.png"
+      },
+      {
+        "name": "CH 38358. TIGO TEST",
+        "url": "bI3i/gyKc4WeaUNhxoNYglJwRQzW261dQ8fUK2EFZ4u5aGRouLkqyJiykWX5y8D+uIUXnRydarX25f2jiOU04WKF2NXAFvvpml+Af7qKLtQ=",
+        "type": "hls",
+        "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
+      },
+      {
+        "name": "CH 38446. TIGO TEST 2",
+        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+nKN3kPF9DuwLUDKKMy9E3Q2JBWbBwJQvKqSjtTiFFz0A==",
+        "type": "hls",
+        "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
+      },
+      {
+        "name": "CH 39185. TIGO TEST 3",
+        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+keFjCYgpXwRREUhiEshlmFW7hMdXWH3TPI1qMbkN1p1g==",
+        "type": "hls",
+        "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
+      }
+    ]
+  },
+  {
     "name": "PARAGUAY HD",
     "samples": [
       {
